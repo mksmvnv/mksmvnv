@@ -1,10 +1,12 @@
 <h1 align="center">
-  Hi
+  Hi there, I'm
+  <a href="https://github.com/mksmvnv" target="_blank">Maksim Ivanov</a>
   <img
     src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
     height="32"
-  />, I'm <a href="https://github.com/mksmvnv" target="_blank">Maksim Ivanov</a>
+  />
 </h1>
+
 <h3 align="center">
   I'm beginner Python Developer. Student of School 21 Sber.
 </h3>
