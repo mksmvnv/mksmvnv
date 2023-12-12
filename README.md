@@ -16,7 +16,6 @@
 <p align="center">
   <img
     src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
-    alt="Python"
   />
   <img
     src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
@@ -40,25 +39,6 @@
   />
 </p>
 
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-  <a href="https://t.me/mksm_vnv" target="_blank">
-    <img
-      src="assets/tg_logo.svg"
-      height="30"
-      style="margin-right: 2px"
-    />
-  </a>
-  <a href="https://www.instagram.com/mksmvnv_/" target="_blank">
-    <img
-      src="assets/inst_logo.svg"
-      height="30"
-      style="margin-left: 2px"
-    />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mksmvnv&color=blue" />
 </p>
@@ -79,4 +59,23 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=mksmvnv&theme=dark&show_icons=true"
   />
+</p>
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://t.me/mksm_vnv" target="_blank">
+    <img
+      src="assets/tg_logo.svg"
+      height="30"
+      style="margin-right: 2px"
+    />
+  </a>
+  <a href="https://www.instagram.com/mksmvnv_/" target="_blank">
+    <img
+      src="assets/inst_logo.svg"
+      height="30"
+      style="margin-left: 2px"
+    />
+  </a>
 </p>
