@@ -62,22 +62,3 @@
     src="https://github-readme-stats.vercel.app/api?username=mksmvnv&theme=dark&show_icons=true"
   />
 </p>
-
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-  <a href="https://t.me/mksm_vnv" target="_blank">
-    <img
-      src="assets/tg_logo.svg"
-      height="30"
-      style="margin-right: 5px; display: inline-block"
-    />
-  </a>
-  <a href="https://www.instagram.com/mksmvnv_/" target="_blank">
-    <img
-      src="assets/inst_logo.svg"
-      height="30"
-      style="margin-left: 5px; display: inline-block"
-    />
-  </a>
-</p>ы
