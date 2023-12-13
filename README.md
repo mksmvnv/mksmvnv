@@ -12,7 +12,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://github.com/mksmvnv/mksmvnv/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mksmvnv/mksmvnv/blob/output/github-contribution-grid-snake.svg)" />
+  <img alt="github-snake" src="https://github.com/mksmvnv/mksmvnv/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
