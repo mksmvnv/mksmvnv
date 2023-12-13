@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <img src="assets/main_pic.svg" />
+  <img src="https://github.com/mksmvnv/mksmvnv/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
@@ -70,14 +70,14 @@
     <img
       src="assets/tg_logo.svg"
       height="30"
-      style="margin-right: 2px"
+      style="margin-right: 10px"
     />
   </a>
   <a href="https://www.instagram.com/mksmvnv_/" target="_blank">
     <img
       src="assets/inst_logo.svg"
       height="30"
-      style="margin-left: 2px"
+      style="margin-left: 5px"
     />
   </a>
 </p>
