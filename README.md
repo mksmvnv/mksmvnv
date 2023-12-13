@@ -8,12 +8,11 @@
 </h1>
 
 <h3 align="center">
-  I'm beginner Python Developer. Student of School 21 Sber.
+  I'm beginner Python Developer and student of School 21 Sber.
 </h3>
 
 <p align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mksmvnv/mksmvnv/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/mksmvnv/mksmvnv/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="./assets/main_pic.svg"/>
 </p>
 
 <p align="center">
@@ -78,7 +77,7 @@
     <img
       src="assets/inst_logo.svg"
       height="30"
-      style="margin-left: 5px"
+      style="margin-left: 10px"
     />
   </a>
 </p>
