@@ -70,14 +70,14 @@
     <img
       src="assets/tg_logo.svg"
       height="30"
-      style="margin-right: 10px"
+      style="margin-right: 5px; display: inline-block"
     />
   </a>
   <a href="https://www.instagram.com/mksmvnv_/" target="_blank">
     <img
       src="assets/inst_logo.svg"
       height="30"
-      style="margin-left: 10px"
+      style="margin-left: 5px; display: inline-block"
     />
   </a>
-</p>
+</p>ы
