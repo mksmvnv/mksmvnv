@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <img src="assets/main_pic.svg" />
+  <img src="https://github.com/mksmvnv/mksmvnv/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
