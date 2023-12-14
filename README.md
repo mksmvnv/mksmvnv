@@ -28,6 +28,10 @@
     alt="NumPy"
   />
   <img
+    src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"
+    alt="Matplotlib"
+  />
+  <img
     src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"
     alt="C"
   />
