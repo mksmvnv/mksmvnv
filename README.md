@@ -12,13 +12,12 @@
 </p>
 
 <p>
-  Hi there, I am Maksim Ivanov!
+  Hi there, I'm Maksim Ivanov!
   <img src="https://media.tenor.com/jFn8sS1Et-0AAAAM/cat.gif" , height="15" />
 </p>
 
 <p>
-  Here I am trying to develop something new, which I will definitely break
-  later.
+  Honestly, I'm trying to develop something new here that I'll definitely break later. In my dreams, I'm an ML engineer who develops AI.
 </p>
 
 <ul>
@@ -28,7 +27,7 @@
       ,
       height="20"
     />
-    Living in St. Petersburg, Russia
+    I live in St. Petersburg, Russia
   </li>
   <li>
     <img
@@ -36,7 +35,7 @@
       ,
       height="20"
     />
-    Studying at School 21 Sber
+    I study at School 21 Sber
   </li>
   <li>
     <img
@@ -44,16 +43,15 @@
       ,
       height="20"
     />
-    Diving into Machine Learning and Data Science
+    I'm diving into Machine Learning and Data Science
   </li>
-
   <li>
     <img
       src="https://em-content.zobj.net/source/apple/354/ping-pong_1f3d3.png"
       ,
       height="20"
     />
-    Getting carried away sport, like MMA, football and table tennis
+    My favorite activities are kempo, football and table tennis
   </li>
   <li>
     <img
@@ -61,7 +59,7 @@
       ,
       height="20"
     />
-    Learning English and Chinese
+    I study English and Chinese
   </li>
   <li>
     <img
@@ -69,7 +67,7 @@
       ,
       height="20"
     />
-    Turning a designer into an adequate person
+    I'm trying to grow from a designer into a normal person* joke
   </li>
 </ul>
 
