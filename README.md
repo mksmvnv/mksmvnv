@@ -40,6 +40,10 @@
     alt="NumPy"
   />
   <img
+    src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"
+    alt="Plotly"
+  />
+  <img
     src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"
     alt="Matplotlib"
   />
