@@ -8,7 +8,7 @@
 </h2>
 
 <p>
-  <img src="./assets/main_pic.svg" />
+  <img src="./assets/snake.svg" />
 </p>
 
 <p>
