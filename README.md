@@ -161,6 +161,6 @@
 
 <p>
   <img
-    src="https://media0.giphy.com/media/XIFgLpUmU9TIvY3nZl/giphy.gif?cid=ecf05e475sqh3momngbypxq1rw6wziydp5j2pb5dz378sw4y&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    src="./assets/rabbit.gif"
   />
 </p>
