@@ -80,19 +80,19 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mksmvnv&layout=compact&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mksmvnv&layout=compact&theme=holi&hide_border=true&date_format=j%2Fn%5B%2FY%5D"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=mksmvnv&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D"
+    src="https://github-readme-streak-stats.herokuapp.com?user=mksmvnv&theme=holi-theme&hide_border=true&date_format=j%2Fn%5B%2FY%5D"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mksmvnv&theme=dark&show_icons=true&hide_border=true&date_format=j%2Fn%5B%2FY%5D"
+    src="https://github-readme-stats.vercel.app/api?username=mksmvnv&theme=holi&show_icons=true&hide_border=true&date_format=j%2Fn%5B%2FY%5D"
   />
 </p>
 
