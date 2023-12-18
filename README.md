@@ -1,6 +1,6 @@
 <p>
   <img
-    src="https://komarev.com/ghpvc/?username=mksmvnv&color=green"
+    src="https://komarev.com/ghpvc/?username=mksmvnv&color=blue"
     ,
     height="20"
   />
