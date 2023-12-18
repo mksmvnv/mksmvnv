@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  Honestly, I'm trying to develop something new here that I'll definitely break later. In my dreams, I'm an ML engineer who develops AI.
+  Honestly, here I'm trying to do something new for myself, which I hope won't break so often. My main goal is to develop in the field of Machine Learning and in the future work on projects related to AI.
 </p>
 
 <ul>
@@ -27,7 +27,7 @@
       ,
       height="20"
     />
-    I live in St. Petersburg, Russia
+    I live in the beautiful city of Saint Petersburg, Russia
   </li>
   <li>
     <img
@@ -35,7 +35,7 @@
       ,
       height="20"
     />
-    I study at School 21 Sber
+    I have transitioned to full-time education at School 21 Sber
   </li>
   <li>
     <img
@@ -43,7 +43,7 @@
       ,
       height="20"
     />
-    I'm diving into Machine Learning and Data Science
+    I'm immersing myself in the world of Machine Learning and Data Science
   </li>
   <li>
     <img
@@ -51,7 +51,7 @@
       ,
       height="20"
     />
-    My favorite activities are kempo, football and table tennis
+    I have achieved success in kempo and used to play football, and I also enjoy playing table tennis
   </li>
   <li>
     <img
@@ -59,7 +59,7 @@
       ,
       height="20"
     />
-    I study English and Chinese
+    I'm learning English and have a strong desire to learn Chinese
   </li>
   <li>
     <img
@@ -67,7 +67,7 @@
       ,
       height="20"
     />
-    I'm trying to grow from a designer into a normal person* joke
+    I worked as a designer, and now I'm trying to become a human being *just kidding
   </li>
 </ul>
 
