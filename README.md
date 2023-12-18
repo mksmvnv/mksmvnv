@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  Honestly, here I'm trying to do something new for myself, which I hope won't break so often. My main goal is to develop in the field of Machine Learning and in the future work on projects related to AI.
+  To be honest, here I'm trying to do something new for myself, hoping it won't break too often. My main goal is to grow in the field of Machine Learning and eventually work on AI-related projects.
 </p>
 
 <ul>
