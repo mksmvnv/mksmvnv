@@ -1,3 +1,7 @@
+<p>
+  <img src="./assets/snake.svg" />
+</p>
+
 <h2>
   <img
     src="https://em-content.zobj.net/source/apple/354/thought-balloon_1f4ad.png"
@@ -6,10 +10,6 @@
   />
   About Me
 </h2>
-
-<p>
-  <img src="./assets/snake.svg" />
-</p>
 
 <p>
   Hi there, I'm Maksim Ivanov!
