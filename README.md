@@ -1,4 +1,12 @@
 <p>
+  <img
+    src="https://komarev.com/ghpvc/?username=mksmvnv&color=green"
+    ,
+    height="20"
+  />
+</p>
+
+<p>
   <img src="./assets/snake.svg" />
 </p>
 
@@ -91,14 +99,6 @@
       src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
       alt="Instagram"
   /></a>
-</p>
-
-<p>
-  <img
-    src="https://komarev.com/ghpvc/?username=mksmvnv&color=green"
-    ,
-    height="15"
-  />
 </p>
 
 <h2>
