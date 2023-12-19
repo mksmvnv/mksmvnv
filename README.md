@@ -158,7 +158,7 @@
 <p></p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mksmvnv&layout=compact&theme=github_dark&bg_color=0e1117&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mksmvnv&layout=compact&theme=dark&bg_color=0e1117&hide_border=true"/>
 </p>
 
 <p>
