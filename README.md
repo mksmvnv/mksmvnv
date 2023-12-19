@@ -158,7 +158,10 @@
 <p></p>
 
 <p>
-  <img
-    src="./assets/rabbit.gif"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mksmvnv&layout=compact&theme=github_dark&bg_color=0e1117&hide_border=true"/>
 </p>
+
+<p>
+  <img src="./assets/rabbit.gif"/>
+</p>
+
