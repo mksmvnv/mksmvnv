@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  Honestly, I'm trying to develop something new here that I'll definitely break later. In my dreams, I'm an ML engineer who develops AI.
+  I'm trying something new here, hoping it won't break too often. My main goal is to grow in Machine Learning and work on AI projects eventually.
 </p>
 
 <ul>
@@ -180,4 +180,3 @@
 <p>
   <img src="./assets/rabbit.gif"/>
 </p>
-
