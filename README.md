@@ -1,3 +1,15 @@
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=mksmvnv&color=blue"
+    ,
+    height="20"
+  />
+</p>
+
+<p>
+  <img src="./assets/snake.svg" />
+</p>
+
 <h2>
   <img
     src="https://em-content.zobj.net/source/apple/354/thought-balloon_1f4ad.png"
@@ -6,10 +18,6 @@
   />
   About Me
 </h2>
-
-<p>
-  <img src="./assets/snake.svg" />
-</p>
 
 <p>
   Hi there, I'm Maksim Ivanov!
@@ -27,7 +35,7 @@
       ,
       height="20"
     />
-    I live in St. Petersburg, Russia
+    I live in the beautiful city of Saint Petersburg, Russia
   </li>
   <li>
     <img
@@ -35,7 +43,7 @@
       ,
       height="20"
     />
-    I study at School 21 Sber
+    I have transitioned to full-time education at School 21 Sber
   </li>
   <li>
     <img
@@ -43,7 +51,7 @@
       ,
       height="20"
     />
-    I'm diving into Machine Learning and Data Science
+    I'm immersing myself in the world of Machine Learning and Data Science
   </li>
   <li>
     <img
@@ -51,7 +59,7 @@
       ,
       height="20"
     />
-    My favorite activities are kempo, football and table tennis
+    I have achieved success in kempo and used to play football, and I also enjoy playing table tennis
   </li>
   <li>
     <img
@@ -59,7 +67,7 @@
       ,
       height="20"
     />
-    I study English and Chinese
+    I'm learning English and have a strong desire to learn Chinese
   </li>
   <li>
     <img
@@ -67,7 +75,7 @@
       ,
       height="20"
     />
-    I'm trying to grow from a designer into a normal person* joke
+    I worked as a designer, and now I'm trying to become a human being *just kidding
   </li>
 </ul>
 
@@ -91,14 +99,6 @@
       src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
       alt="Instagram"
   /></a>
-</p>
-
-<p>
-  <img
-    src="https://komarev.com/ghpvc/?username=mksmvnv&color=green"
-    ,
-    height="15"
-  />
 </p>
 
 <h2>
