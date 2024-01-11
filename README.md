@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  To be honest, here I'm trying to do something new for myself, hoping it won't break too often. My main goal is to grow in the field of Machine Learning and eventually work on AI-related projects.
+  I'm trying something new here, hoping it won't break too often. My main goal is to grow in Machine Learning and work on AI projects eventually.
 </p>
 
 <ul>
@@ -180,4 +180,3 @@
 <p>
   <img src="./assets/rabbit.gif"/>
 </p>
-
