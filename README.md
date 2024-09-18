@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <img src="./assets/github-user-contribution.svg" />
+  <img src="./assets/snake.svg" />
 </p>
 <h2>
   <img
