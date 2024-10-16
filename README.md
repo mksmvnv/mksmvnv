@@ -6,12 +6,7 @@
   />
 </p>
 <h2>
-  <img
-    src="https://em-content.zobj.net/source/apple/354/pushpin_1f4cc.png"
-    ,
-    height="25"
-  />
-  Social
+  💭 Social
 </h2>
 
 <p>
@@ -23,12 +18,7 @@
 </p>
 
 <h2>
-  <img
-    src="https://em-content.zobj.net/source/apple/354/unicorn_1f984.png"
-    ,
-    height="25"
-  />
-  Stats
+  ⚙️ Stats
 </h2>
 <p></p>
 
