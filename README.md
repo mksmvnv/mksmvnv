@@ -5,10 +5,6 @@
     height="20"
   />
 </p>
-
-<p>
-  <img src="./assets/snake.svg" />
-</p>
 <h2>
   <img
     src="https://em-content.zobj.net/source/apple/354/pushpin_1f4cc.png"
