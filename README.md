@@ -4,7 +4,7 @@
 
 ## 👀 Views
 
-![Profile](https://komarev.com/ghpvc/?username=mksmvnv&color=blue&height=20)
+![Profile](https://komarev.com/ghpvc/?username=mksmvnv&label=Profile&style=flat-square)
 
 ## 💭 Social
 
