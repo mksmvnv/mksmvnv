@@ -1,0 +1,24 @@
+/* Fonts */
+
+@font-face {
+    font-family: 'FiraCodeRegular'; 
+    src: url("../fonts/FiraCode/FiraCode-Regular.ttf") format('truetype');
+    font-weight: normal;
+}
+
+/* General */
+
+body {
+    transition: background-color 0.3s, color 0.3s;
+    font-family: 'FiraCodeRegular';
+}
+
+/* Icons */
+
+i {
+    transition: color 0.3s ease;
+}
+
+i:hover {
+    color: #696969;
+}
