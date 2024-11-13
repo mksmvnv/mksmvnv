@@ -6,7 +6,7 @@
 
 ![Profile](https://komarev.com/ghpvc/?username=mksmvnv&label=Profile&style=flat-square)
 
-## 💭 Social
+## 💭 Links
 
 [![Telegram](assets/tg_logo.png)](https://t.me/mksm_vnv)
 
