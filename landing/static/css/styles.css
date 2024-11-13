@@ -36,13 +36,14 @@ i:hover {
     flex-direction: column;
     align-items: center;
     padding: 10px;
-    border: 2px solid #696969;
+    border: 3px solid #dee2e6;
     border-radius: 8px;
     transition: transform 0.3s;
 }
 
 .tech-tile:hover {
     transform: scale(1.05);
+    border-color: #696969;
 }
 
 .tech-tile img {
@@ -52,6 +53,14 @@ i:hover {
 
 .tech-tile span {
     font-size: 0.9rem;
+}
+
+[data-bs-theme="dark"] .tech-tile {
+    border-color: #495057;
+}
+
+[data-bs-theme="dark"] .tech-tile:hover {
+    border-color: #696969;
 }
 
 /* Mobile Tech Stack Grid */
@@ -65,7 +74,7 @@ i:hover {
 
     .tech-tile {
         padding: 5px;
-        border-width: 1px;
+        border-width: 2px;
         border-radius: 6px;
     }
 
