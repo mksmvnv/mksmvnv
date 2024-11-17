@@ -1,12 +1,12 @@
 Hey 大家好! I'm [@mksmvnv](https://github.com/mksmvnv) Maksim Ivanov.
 
-I'm a Python Developer from Saint Petersburg, Russia.
+I'm a Python developer from Saint Petersburg, Russia.
 
-I'm a student of [School 21](https://21-school.ru/) (a Sber educational program) and a Technical Support Engineer at [**Sprinthost**](https://sprintbox.ru/).
+I'm a student at [School 21](https://21-school.ru/) (an educational program by Sber) and currently work as a technical support engineer at [Sprinthost](https://sprintbox.ru/) (a hosting provider).
 
-My hobbies include studying languages, sports and travel. My English level is Intermediate, and my Chinese is Elementary. I love reading about IT, Philosophy, and History.
+My hobbies include learning languages, sports, and traveling. My English level is intermediate (B1), and my Chinese is elementary (HSK1). I love reading about IT, Philosophy, and History.
 
-If you want to check my tech stack, you can visit my [**GitHub Page**](https://mksmvnv.github.io/mksmvnv/).
+Check out my [GitHub Page](https://mksmvnv.github.io/mksmvnv/) to see my tech stack.
 
 Let's connect:
 
