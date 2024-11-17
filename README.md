@@ -1,15 +1,14 @@
-# Hi there 🖖
+Hey 大家好! I'm [**@mksmvnv**](https://github.com/mksmvnv) Maksim Ivanov.
 
-![Rabbit GIF](./assets/rabbit.gif)
+I'm a Python Developer from Saint Petersburg, Russia.
 
-## 👀 Views
+I'm a student of [**School 21**](https://21-school.ru/) (a Sber educational program) and a Technical Support Engineer at [**Sprinthost**](https://sprintbox.ru/).
 
-![Profile](https://komarev.com/ghpvc/?username=mksmvnv&label=Profile&style=flat-square)
+My hobbies include studying languages, football, fitness and table tennis. My English level is Intermediate, and my Chinese is Elementary. I love reading about IT, Philosophy, and History.
 
-## 💭 Links
+If you want to check my tech stack, you can visit my [**GitHub Page**](https://mksmvnv.github.io/mksmvnv/).
 
-[![Telegram](assets/tg_logo.png)](https://t.me/mksm_vnv)
+Let's connect:
 
-## ⚙️ Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mksmvnv&layout=compact&theme=dark&bg_color=0e1117&hide_border=true)
+* [**Telegram**](https://t.me/mksm_vnv)
+* [**LinkedIn**](https://www.linkedin.com/in/mksmvnv/)
