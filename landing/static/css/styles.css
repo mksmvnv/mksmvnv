@@ -27,7 +27,7 @@ i:hover {
 
 .tech-stack-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
     gap: 1rem;
 }
 
@@ -52,7 +52,7 @@ i:hover {
 }
 
 .tech-tile span {
-    font-size: 0.9rem;
+    font-size: 0.7rem;
 }
 
 [data-bs-theme="dark"] .tech-tile {
@@ -68,7 +68,7 @@ i:hover {
 @media (max-width: 600px) {
     .tech-stack-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
         gap: 0.5rem;
     }
 
@@ -84,7 +84,7 @@ i:hover {
     }
 
     .tech-tile span {
-        font-size: 0.8rem;
+        font-size: 0.6rem;
     }
 }
 
