@@ -1,6 +1,6 @@
 Hey 大家好! I'm [@mksmvnv](https://github.com/mksmvnv) Maksim Ivanov.
 
-I'm a backend developer from St. Petersburg, Russia.
+I'm a Backend Developer from St. Petersburg, Russia.
 
 My favorite hobbies are practicing Combat Sambo and learning languages. I’m currently studying English at an intermediate level (B1) and Chinese at a basic level (HSK1). I also love traveling. I've visited many countries in Europe. In my free time, I enjoy reading about IT, philosophy, and science.
 
